@@ -196,8 +196,8 @@ checkHistory("Jeff")
 
 
 # Create second account with more realistic account name
-createBankAccount("elalonde22","Saving",10000)
-checkHistory("jsawyer22")
+createBankAccount("elalond2","Saving",10000)
+checkHistory("elalond2")
 
 # Create third account with same username and no balance
 createBankAccount("Jeff","Saving",0)
