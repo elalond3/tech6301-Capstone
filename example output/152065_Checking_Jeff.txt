@@ -1,0 +1,4 @@
+Starting Balance: $1000.00
+Transaction 1: Attempted withdrawal of $1500.00 rejected. Current balance = $1000.00
+Transaction 2: Withdrew $150.00. Current balance = $850.00
+Transaction 3: Deposited $226.78. Current balance = $1076.78
